@@ -151,7 +151,7 @@ body {
 .progress.css { width: 98%; }
 .progress.js { width: 30%; }
 .progress.react { width: 0%; }
-
+.progress.bootstrap{width:80% }
 .contact {
   padding: 60px 10%;
   background: #0f0f0f;
